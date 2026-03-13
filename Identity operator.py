@@ -12,3 +12,16 @@ print()
 print(not(a is c))
 print()
 print( a==b==c)
+
+```````````````
+output
+``````````````
+True
+
+True
+
+True
+
+True
+
+False
